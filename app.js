@@ -1,1 +1,1 @@
- let body = document.getElementsByClassName('body');
+ let body = document.getElementsByClassName(h1);
